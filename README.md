@@ -53,7 +53,7 @@
 ---
 
 <h3 align="center">Connect with me:</h3>
-<p align="center"><a href="https://fb.com/Sasindu Lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sasindu Lakshan" height="50" width="50" /></a>
+<p align="center"><a href="https://web.facebook.com/sasindu.lakshan.9678" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Sasindu Lakshan" height="50" width="50" /></a>
 <a href="https://instagram.com/Sasindu Lakshan" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Sasindu Lakshan" height="50" width="50" /></a>
 </p>
 
