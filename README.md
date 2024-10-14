@@ -66,23 +66,4 @@
 
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/scar2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
-
-
-
- <br>
-  <p align="center">
-  <img src="https://github.com/sasindlakshan/sasindulakshan/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-
-
-
-------
-
-[Rahul Dhanola](https://github.com/DHANOLA)
-
-Last Edited on: 09/09/2021
-
-
-------
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
